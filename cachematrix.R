@@ -40,3 +40,8 @@ cacheSolve <- function(x, ...) {
   x$setinverse(inverse)
   inverse
 }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> origin/master
